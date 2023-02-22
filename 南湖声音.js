@@ -494,7 +494,7 @@
   * 助力
   */
  async function invite() {
-   let body = `ref_code=43J569`
+   let body = `ref_code=V73XF9`
    return new Promise(resolve => {
      $.post((taskPostUrl("/api/account/update_ref_code", body)), async (err, resp, data) => {
        try {
