@@ -69,7 +69,7 @@
                  'bddeviceid':'',
                  'version':'2.4.6',
                  'User-Agent':'okhttp/3.12.1',
-				 'Content-Length': '260',
+				 'Content-Length': '304',
 				 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8',
 			 },
 			 body: bd
