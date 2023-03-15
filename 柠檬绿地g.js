@@ -1,7 +1,7 @@
 /**
- *下载地址 https://gu.gkewang.com/front/inviter/register/00l7zZvs?activityCode=INVITECLIE
+ *下载地址 https://gu.gkewang.com/front/inviter/register/00bsE6e6?activityCode=INVITECLIE
  * 绿地g优app签到
- * 邀请码:00l7zZvs
+ * 邀请码:00bsE6e6
  * 定时一次 (第一次手动进一下签到页面)
  * ========= 青龙--配置文件 =========
  * 变量格式: export ldgy_hd=手机号&token   ,多账号用 换行 或 @ 分割
@@ -24,7 +24,7 @@
  //---------------------------------------------------------------------------------------------------------
  
  async function tips(ckArr) {
-	 let Version = `\n📌 微信小程序:柠檬玩机`
+	 let Version = `\n📌 测试  `
 	 DoubleLog(`${Version}\n📌 🆙 更新内容: ${Change}`);
 	 DoubleLog(`\n========== 共找到 ${ckArr.length} 个账号 ==========`);
 	 debugLog(`【debug】 这是你的账号数组:\n ${ckArr}`);
