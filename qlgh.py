@@ -14,8 +14,7 @@ def singin(Authorization):
         "x-glgh-geo":"",
         "x-qlgh-version":"a2.3.9",
         "Content-Type":"application/x-www-form-urlencoded",
-        "x-csrf-token":"009825d60e88fdc8652eb91a28f0badf532dec9a990a1b210a07e468a7c026bde9e22a600b68fe36"
-}
+        }
     url = "https://qlgh.sdgh.org.cn/user-api/api/me/sign"
     data = {"laborId":"O0000000000000032268",
      		"userId":"" 
@@ -32,8 +31,7 @@ def singin(Authorization):
             "x-glgh-geo":"",
             "x-qlgh-version":"a2.3.9",
             "Content-Type":"application/x-www-form-urlencoded",
-            "x-csrf-token":"009825d60e88fdc8652eb91a28f0badf532dec9a990a1b210a07e468a7c026bde9e22a600b68fe36"
-    }
+           }
         url = "https://qlgh.sdgh.org.cn/rule-search/api/sce/summarizing/my"
        	
         response = requests.get(url, headers=headers)
