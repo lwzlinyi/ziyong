@@ -3,7 +3,7 @@
 #抓包Authorization，在第六行自行替换，带着“Bearer ”
 
 import requests
-Authorization = 'Bearer 961b4066-9041-472c-b6bb-f4aae5b8724e'
+Authorization = 'Bearer xxxxxxxxxx'
 
 #签到
 def singin(Authorization):
