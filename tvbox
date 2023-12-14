@@ -3,11 +3,7 @@
     "urls": [
         {
             "url": "",
-            "name": "🐊🐊接口更新于11.23🐊🐊"
-        },
-        {
-            "url": "",
-            "name": "🍀此接口免费禁止贩卖🍀"
+            "name": "github@lwzlinyi"
         },
         {
             "url": "http://饭太硬.top/tv",
@@ -16,6 +12,14 @@
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "🚀小米推荐"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "🚀俊于线路"
+        },
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "🚀合集"
         },
         {
             "url": "http://fan.xxooo.cf/tv",
@@ -100,6 +104,18 @@
         {
             "url": "http://dxawi.github.io/0/0.json",
             "name": "🚀dxawi线路"
+        },
+        {
+            "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json",
+            "name": "🚀胖虎线路"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "🚀巧技线路"
+        },
+        {
+            "url": "http://tt.58cxz.com/video/4k.json",
+            "name": "🚀纯4K线路"
         }
     ]
 }
