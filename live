@@ -1,36 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="IPV6·4K",Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-name="LoveNrture" group-title="IPV6·4K",Love Nrture 4K「自然」
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="IPV6·4K",Fashion 4K「时尚」
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="IPV6·4K",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="IPV6·4K",CCTV16 4K
-https://tv.iill.top/bestv/cctv164k
-#EXTINF:-1 group-title="IPV6·4K",CCTV 4K
-https://tv.iill.top/bestv/cctv4k
-#EXTINF:-1 group-title="IPV6·4K",欢笑剧场 4k
-https://tv.iill.top/bestv/hxjc4k
-#EXTINF:-1 group-title="IPV6·4K",影视 4K「移动」
-http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 group-title="IPV6·4K",8K测试「IPV6」
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 group-title="IPV6·4K",爱上4K 「IPV6」
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 group-title="IPV6·4K",4K 修复「IPV6」
-http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 group-title="IPV6·4K",BesTV 4K 「IPV6」
-http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 tvg-name="纯享4K" group-title="IPV6·4K",纯享 4K「IPV6」
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 tvg-name="纯享4K" group-title="IPV6·4K",纯享 4K「IPV6」
-http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" group-title="IPV6·4K",SiTV欢笑剧场4K 「IPV6」
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="null" group-title="IPV6·4K",华数4K「IPV6」
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV1" group-title="IPV6·央视",CCTV [随机4K] 「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="IPV6·央视",CCTV [随机4K] 「IPV6」
@@ -531,6 +499,36 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
 #EXTINF:-1 group-title="IPV6·地区",「陕西」佛坪电视台「IPV6」
 http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
+#EXTINF:-1 tvg-name="LoveNrture" group-title="IPV6·4K",Love Nrture 4K「自然」
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="IPV6·4K",Fashion 4K「时尚」
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPV6·4K",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="IPV6·4K",CCTV16 4K
+https://tv.iill.top/bestv/cctv164k
+#EXTINF:-1 group-title="IPV6·4K",CCTV 4K
+https://tv.iill.top/bestv/cctv4k
+#EXTINF:-1 group-title="IPV6·4K",欢笑剧场 4k
+https://tv.iill.top/bestv/hxjc4k
+#EXTINF:-1 group-title="IPV6·4K",影视 4K「移动」
+http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+#EXTINF:-1 group-title="IPV6·4K",8K测试「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+#EXTINF:-1 group-title="IPV6·4K",爱上4K 「IPV6」
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 group-title="IPV6·4K",4K 修复「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 group-title="IPV6·4K",BesTV 4K 「IPV6」
+http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1 tvg-name="纯享4K" group-title="IPV6·4K",纯享 4K「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 tvg-name="纯享4K" group-title="IPV6·4K",纯享 4K「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" group-title="IPV6·4K",SiTV欢笑剧场4K 「IPV6」
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="null" group-title="IPV6·4K",华数4K「IPV6」
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 group-title="•游戏赛事",穿越火线
 http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 #EXTINF:-1 group-title="•游戏赛事",和平精英·手游
@@ -1217,45 +1215,23 @@ http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
 #EXTINF:-1 group-title="•国际",「US」 BloombergTV+2
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
-#EXTINF:-1 group-title="•韩国",EBS 1
+#EXTINF:-1 group-title="•国际",韩国EBS 1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
-#EXTINF:-1 group-title="•韩国",EBS 2
+#EXTINF:-1 group-title="•国际",韩国EBS 2
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
-#EXTINF:-1 group-title="•韩国",EBS 키즈
+#EXTINF:-1 group-title="•国际",韩国EBS 키즈
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-#EXTINF:-1 group-title="•韩国",Job Plus tv
+#EXTINF:-1 group-title="•国际",韩国Job Plus tv
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
-#EXTINF:-1 group-title="IPV6·BesTV",BesTV-1「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001148/index.m3u8?love=freedom
-#EXTINF:-1 group-title="IPV6·BesTV",BesTV-2「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001149/index.m3u8?love=freedom
-#EXTINF:-1 group-title="IPV6·BesTV",BesTV-3「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001150/index.m3u8?love=freedom
-#EXTINF:-1 group-title="IPV6·BesTV",BesTV-4「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001151/index.m3u8?love=freedom
-#EXTINF:-1 group-title="IPV6·BesTV",BesTV-5「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001152/index.m3u8?love=freedom
-#EXTINF:-1 group-title="IPV6·BesTV",BesTV-6「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001153/index.m3u8?love=freedom
-#EXTINF:-1 group-title="IPV6·BesTV",BesTV-7「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001154/index.m3u8?love=freedom
-#EXTINF:-1 group-title="IPV6·BesTV",BesTV-8「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001359/index.m3u8?love=freedom
-#EXTINF:-1 group-title="IPV6·BesTV",BesTV-9「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001378/index.m3u8?love=freedom
-#EXTINF:-1 group-title="IPV6·BesTV",BesTV-10「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001388/index.m3u8?love=freedom
-#EXTINF:-1 group-title="IPV6·BesTV",BesTV-11「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001398/index.m3u8?love=freedom
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="IPV6·咪咕",咪咕直播-52「IPV6」
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕「移动」",咪咕直播-52「IPV6」
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="IPV6·咪咕",咪咕直播-53「IPV6」
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕「移动」",咪咕直播-53「IPV6」
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="IPV6·咪咕",咪咕直播-54「IPV6」
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕「移动」",咪咕直播-54「IPV6」
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="IPV6·咪咕",咪咕直播-55「IPV6」
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕「移动」,咪咕直播-55「IPV6」
 http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="IPV6·咪咕",咪咕直播-56「IPV6」
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕「移动」",咪咕直播-56「IPV6」
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕「移动」",咪咕直播4K-1
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
@@ -1368,6 +1344,3 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕「移动」",咪咕直播-53
 http://gslbserv.itv.cmvideo.cn:80/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
 http://198.16.100.90:8278/Awani/playlist.m3u8?tid=MB3B5555835155558351&ct=19225&tsum=148341f2ac3dfc57fd8bb8b2f6e4d190
-
-#EXTINF:-1 group-title="备用•央视",Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
