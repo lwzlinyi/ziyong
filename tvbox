@@ -3,7 +3,7 @@
     "urls": [
         {
             "url": "http://饭太硬.top/tv",
-            "name": "2月18更新"
+            "name": "2月18更新清理无效源"
         },
         {
             "url": "http://饭太硬.top/tv",
@@ -36,10 +36,6 @@
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "🚀巧计线路"
-        },
-        {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lxhfans/TV/master/tv.txt",
-            "name": "🚀乐享汇线路"
         },
         {
             "url": "http://t.84jia.com:80/tvbox/tvbox.json",
@@ -82,24 +78,8 @@
             "name": "🚀神器线路"
         },
         {
-            "url": "http://www.lyyytv.cn/yt/yt.json",
-            "name": "🚀影探线路"
-        },
-        {
-            "url": "http://dxawi.github.io/0/0.json",
-            "name": "🚀dxawi线路"
-        },
-        {
             "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json",
             "name": "🚀胖虎线路"
         },
-        {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "🚀巧技线路"
-        },
-        {
-            "url": "http://tt.58cxz.com/video/4k.json",
-            "name": "🚀纯4K线路"
-        }
     ]
 }
