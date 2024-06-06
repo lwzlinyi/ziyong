@@ -3,79 +3,79 @@
     "urls": [
         {
             "url": "http://www.饭太硬.com/tv",
-            "name": "饭太硬接口"
+            "name": "【推荐】饭太硬接口"
         },
         {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🚀小米推荐"
+            "url": "http://xhww.fun/小米/DEMO.json",
+            "name": "小米接口"
         },
         {
-            "url": "http://我不是.肥猫.live/接口禁止贩卖",
-            "name": "🚀肥猫线路"
+            "url": "http://肥猫.live",
+            "name": "肥猫接口"
         },
         {
             "url": "http://rihou.cc:88/荷城茶秀",
-            "name": "🚀荷城茶秀"
+            "name": "荷城茶秀"
         },
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
-            "name": "🚀香雅情镜像线路"
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "香雅情镜像线路"
         },
         {
             "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-            "name": "🚀酷安潇洒哥线路"
+            "name": "酷安潇洒哥线路"
         },
         {
             "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
-            "name": "🚀FongMI线路"
+            "name": "FongMI线路"
         },
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "🚀巧计线路"
+            "name": "巧计线路"
         },
         {
-            "url": "http://t.84jia.com:80/tvbox/tvbox.json",
-            "name": "🚀小鱼线路"
+            "url": "http://bp.tvbox.cam/",
+            "name": "小白线路"
         },
         {
             "url": "http://rihou.cc:99/荷城茶秀",
-            "name": "🚀荷城茶秀线路"
+            "name": "荷城茶秀线路"
         },
         {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "🚀云星日记线路"
+            "name": "云星日记线路"
         },
         {
             "url": "https://100km.top/0",
-            "name": "🚀骚 0线路"
+            "name": "骚0线路"
         },
         {
             "url": "https://wds.ecsxs.com/230989.json",
-            "name": "🚀春盈天下线路 py"
+            "name": "春盈天下线路 py"
         },
         {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "🚀菜妮丝 XBPQ"
+            "url": "https://tvbox.cainisi.cf/",
+            "name": "菜妮丝 XBPQ"
         },
         {
             "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🚀高天流云js"
+            "name": "高天流云js"
         },
         {
             "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "🚀高天流云 XYQ"
+            "name": "高天流云 XYQ"
         },
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🚀南风线路"
+            "name": "南风线路"
         },
         {
             "url": "https://神器每日推送.tk/pz.json",
-            "name": "🚀神器线路"
+            "name": "神器线路"
         },
         {
             "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json",
-            "name": "🚀胖虎线路"
+            "name": "胖虎线路"
         }
     ]
 }
