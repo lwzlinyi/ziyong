@@ -6,16 +6,24 @@
             "name": "【推荐】饭太硬接口"
         },
         {
-            "url": "http://xhww.fun/小米/DEMO.json",
-            "name": "小米接口"
-        },
-        {
             "url": "http://肥猫.live",
             "name": "肥猫接口"
         },
         {
-            "url": "http://rihou.cc:88/荷城茶秀",
-            "name": "荷城茶秀"
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "巧计线路"
+        },
+       {
+            "url": "http://rihou.cc:99/荷城茶秀",
+            "name": "荷城茶秀线路"
+        },
+        {
+            "url": "http://xhww.fun/小米/DEMO.json",
+            "name": "小米接口"
+        },
+        {
+            "url": "http://tv.nxog.top/m/",
+            "name": "讴歌线路"
         },
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
@@ -30,16 +38,8 @@
             "name": "FongMI线路"
         },
         {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "巧计线路"
-        },
-        {
             "url": "http://bp.tvbox.cam/",
             "name": "小白线路"
-        },
-        {
-            "url": "http://rihou.cc:99/荷城茶秀",
-            "name": "荷城茶秀线路"
         },
         {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
